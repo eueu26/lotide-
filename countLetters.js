@@ -15,6 +15,7 @@ const countLetters = function(sentence) {
   const newObj = {};
   
   for (let letter of sentence) {
+    if (letter !== ' ')
     if (newObj[letter]) {
       newObj[letter] += 1;
     }
@@ -24,4 +25,4 @@ const countLetters = function(sentence) {
   } return newObj;
 };
 
-console.log(countLetters("lighthouse in the house"));
+console.log(countLetters("lig hthouse in the house"));
