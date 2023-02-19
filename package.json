@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "Eueu26/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "Series of functions learnt from Lighthouse Labs Bootcamp",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Eueu26/lotide.git"
   },
-  "author": "",
+  "author": "Eunice Gege",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Eueu26/lotide/issues"
